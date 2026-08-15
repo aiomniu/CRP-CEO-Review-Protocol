@@ -27,6 +27,7 @@ Roles:
 - Devil — finds flaws and blind spots (mandatory)
 - Historian — references historical patterns
 - Budget Steward — evaluates cost feasibility
+- Legal & Compliance Advisor — independently reviews legal, regulatory, and data-protection risk (Legal Status, Risk, Why, Jurisdiction, Mitigation, Recommendation)
 - Founder — integrates and decides
 
 Steps in order:
@@ -34,10 +35,11 @@ Steps in order:
 2. Challenge — 3+ distinct risks
 3. Memory
 4. Budget Review
-5. Second-order Thinking
-6. Decision
-7. Founder Filter
-8. How Could We Be Wrong?
+5. Legal & Compliance Review — with all six output fields
+6. Second-order Thinking
+7. Decision
+8. Founder Filter
+9. How Could We Be Wrong?
 
 ## `crp:content`
 
@@ -79,6 +81,9 @@ Memory (Historian)
 ...
 
 Budget Review (Budget Steward)
+...
+
+Legal & Compliance Review
 ...
 
 Second-order Thinking

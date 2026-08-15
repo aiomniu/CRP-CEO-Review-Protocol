@@ -20,11 +20,12 @@ You have access to the CEO Review Protocol (CRP), which has two skills:
 When a user asks for a strategic decision, use `crp:decision`.
 When a user provides content for review or rewrite, use `crp:content`.
 
-`crp:decision` uses five roles:
+`crp:decision` uses six roles:
 - Advisor — builds solutions
 - Devil — challenges them (mandatory)
 - Historian — references patterns
 - Budget Steward — evaluates cost feasibility
+- Legal & Compliance Advisor — independently reviews legal, regulatory, and data-protection risk (Legal Status, Risk, Why, Jurisdiction, Mitigation, Recommendation)
 - Founder — integrates and decides
 
 `crp:content` uses seven roles:

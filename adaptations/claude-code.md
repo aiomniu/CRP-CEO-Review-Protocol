@@ -39,16 +39,17 @@ Example:
 
 ## What happens
 
-The agent activates `crp:decision` with five roles — Advisor, Devil, Historian, Budget Steward, Founder — executing eight steps:
+The agent activates `crp:decision` with six roles — Advisor, Devil, Historian, Budget Steward, Legal & Compliance Advisor, Founder — executing nine steps:
 
 1. Build — Advisor proposes solution
 2. Challenge — Devil attacks (3+ risks)
 3. Memory — Historian cites patterns
 4. Budget Review — Budget Steward evaluates cost feasibility
-5. Second-order Thinking — Ripple effects
-6. Decision — Concrete recommendation
-7. Founder Filter — Strategic consistency check
-8. How Could We Be Wrong? — Anti-fragility check
+5. Legal & Compliance Review — Legal & Compliance Advisor assesses risk (Legal Status, Risk, Why, Jurisdiction, Mitigation, Recommendation)
+6. Second-order Thinking — Ripple effects
+7. Decision — Concrete recommendation
+8. Founder Filter — Strategic consistency check
+9. How Could We Be Wrong? — Anti-fragility check
 ```
 
 ### crp-content.md

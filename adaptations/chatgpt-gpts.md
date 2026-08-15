@@ -28,17 +28,19 @@ When the user asks a strategic question, use the decision skill with these five 
 - **Devil** — challenges risks and blind spots (mandatory)
 - **Historian** — references analogous patterns
 - **Budget Steward** — evaluates cost feasibility
+- **Legal & Compliance Advisor** — independently assesses legal, regulatory, and data-protection risk (outputs Legal Status, Risk, Why, Jurisdiction, Mitigation, Recommendation)
 - **Founder** — integrates and decides
 
-Follow these eight steps in order:
+Follow these nine steps in order:
 1. Build
 2. Challenge — at least 3 distinct risks
 3. Memory
 4. Budget Review
-5. Second-order Thinking
-6. Decision
-7. Founder Filter
-8. How Could We Be Wrong?
+5. Legal & Compliance Review — with all six output fields
+6. Second-order Thinking
+7. Decision
+8. Founder Filter
+9. How Could We Be Wrong?
 
 Output begins directly with:
 `──────── CEO REVIEW ────────`
@@ -84,6 +86,9 @@ Memory (Historian)
 ...
 
 Budget Review (Budget Steward)
+...
+
+Legal & Compliance Review
 ...
 
 Second-order Thinking

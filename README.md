@@ -38,7 +38,7 @@ Most AI assistants give you **one answer** — a single perspective optimized fo
 
 | Skill | Role Set | Core Use |
 |:---|:---|:---|
-| `crp:decision` | Advisor, Devil, Historian, Budget Steward, Founder | Strategic decisions, tradeoffs, risk, resource allocation |
+| `crp:decision` | Advisor, Devil, Historian, Budget Steward, Legal & Compliance Advisor, Founder | Strategic decisions, tradeoffs, risk, legal/compliance, resource allocation |
 | `crp:content` | Hook Analyst, Audience Psychologist, Story Editor, Trend Observer, Retention Auditor, Voice Guardian, Chief Editor | Content diagnosis and rewrite |
 
 ## The Decision Skill Flow
@@ -50,6 +50,7 @@ Build (Advisor)
 → Challenge (Devil)
 → Memory (Historian)
 → Budget Review (Budget Steward)
+→ Legal & Compliance Review (Legal & Compliance Advisor)
 → Second-order Thinking
 → Decision
 → Founder Filter
@@ -119,6 +120,9 @@ Memory (Historian)
 Budget Review (Budget Steward)
 [cost feasibility]
 
+Legal & Compliance Review
+[Legal Status, Risk, Why, Jurisdiction, Mitigation, Recommendation]
+
 Second-order Thinking
 [ripple effects]
 
@@ -169,7 +173,7 @@ Why This Version Is Better:
 |:---|:---|
 | Use the right skill for the right task | Decision review and content review solve different problems |
 | Keep role voices distinct | Each role catches different blind spots |
-| Do not skip mandatory checks | Devil / anti-fragility for decisions; Chief Editor rewrite for content |
+| Do not skip mandatory checks | Devil / Legal & Compliance Review / anti-fragility for decisions; Chief Editor rewrite for content |
 | Preserve authenticity | Stronger output should not erase the original voice or intent |
 | Keep the final output actionable | Decisions should end in a concrete path; content should end in a publishable rewrite |
 
