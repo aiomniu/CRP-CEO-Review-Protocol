@@ -293,3 +293,4 @@ Brief explanation of:
 7. **Every sentence must earn its place.**
 8. **Do not confuse completeness with value.**
 9. **The goal is not to say more. The goal is to make every unit of content matter.**
+
