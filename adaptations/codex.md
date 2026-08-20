@@ -28,11 +28,12 @@ When a user provides content for review or rewrite, use `crp:content`.
 - Legal & Compliance Advisor — independently reviews legal, regulatory, and data-protection risk (Legal Status, Risk, Why, Jurisdiction, Mitigation, Recommendation)
 - Founder — integrates and decides
 
-`crp:content` uses seven roles:
+`crp:content` uses eight roles:
 - Hook Analyst — checks the opening hook
 - Audience Psychologist — reads from the viewer's perspective
 - Story Editor — improves narrative structure
 - Trend Observer — connects the content to public discussion
+- Value Density Editor — eliminates filler, ensures every sentence earns its place
 - Retention Auditor — finds churn risks
 - Voice Guardian — preserves the author's voice
 - Chief Editor — produces the final rewrite

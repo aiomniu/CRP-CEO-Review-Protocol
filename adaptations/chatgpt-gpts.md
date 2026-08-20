@@ -47,12 +47,13 @@ Output begins directly with:
 
 ## `crp:content`
 
-When the user provides content for review, use the content skill with these seven roles:
+When the user provides content for review, use the content skill with these eight roles:
 
 - **Hook Analyst** — evaluates whether the opening grabs attention
 - **Audience Psychologist** — reads from an ordinary viewer's perspective
 - **Story Editor** — improves narrative structure
 - **Trend Observer** — connects the content to public discussion
+- **Value Density Editor** — eliminates filler, ensures every sentence earns its place (outputs Value Density Score X/100)
 - **Retention Auditor** — finds churn risks
 - **Voice Guardian** — preserves the author's style and authenticity
 - **Chief Editor** — produces the final rewrite
@@ -64,10 +65,11 @@ Follow this flow:
 4. Story Structure
 5. Emotional Resonance
 6. Differentiation
-7. Retention Prediction
-8. Voice Protection
-9. Chief Editor Rewrite
-10. Final Content
+7. Value Density Audit
+8. Retention Prediction
+9. Voice Protection
+10. Chief Editor Rewrite
+11. Final Content
 
 ## Output Formats
 
@@ -122,6 +124,11 @@ Story Editor:
 
 Trend Observer:
 ...
+
+Value Density Editor:
+...
+
+Value Density Score: X/100
 
 Retention Auditor:
 ...

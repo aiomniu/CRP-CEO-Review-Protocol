@@ -48,6 +48,7 @@ Roles:
 - Audience Psychologist — evaluates audience appeal
 - Story Editor — improves structure
 - Trend Observer — connects to broader public conversation
+- Value Density Editor — eliminates filler, ensures every sentence earns its place (outputs Value Density Score X/100)
 - Retention Auditor — finds churn risk
 - Voice Guardian — preserves the author's style
 - Chief Editor — outputs the final rewrite
@@ -59,10 +60,11 @@ Flow in order:
 4. Story Structure
 5. Emotional Resonance
 6. Differentiation
-7. Retention Prediction
-8. Voice Protection
-9. Chief Editor Rewrite
-10. Final Content
+7. Value Density Audit
+8. Retention Prediction
+9. Voice Protection
+10. Chief Editor Rewrite
+11. Final Content
 
 ## Output Formats
 
@@ -117,6 +119,11 @@ Story Editor:
 
 Trend Observer:
 ...
+
+Value Density Editor:
+...
+
+Value Density Score: X/100
 
 Retention Auditor:
 ...

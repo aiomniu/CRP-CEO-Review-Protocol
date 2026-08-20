@@ -39,7 +39,7 @@ Most AI assistants give you **one answer** — a single perspective optimized fo
 | Skill | Role Set | Core Use |
 |:---|:---|:---|
 | `crp:decision` | Advisor, Devil, Historian, Budget Steward, Legal & Compliance Advisor, Founder | Strategic decisions, tradeoffs, risk, legal/compliance, resource allocation |
-| `crp:content` | Hook Analyst, Audience Psychologist, Story Editor, Trend Observer, Retention Auditor, Voice Guardian, Chief Editor | Content diagnosis and rewrite |
+| `crp:content` | Hook Analyst, Audience Psychologist, Story Editor, Trend Observer, Value Density Editor, Retention Auditor, Voice Guardian, Chief Editor | Content diagnosis and rewrite |
 
 ## The Decision Skill Flow
 
@@ -68,6 +68,7 @@ Idea Evaluation
 → Story Structure
 → Emotional Resonance
 → Differentiation
+→ Value Density Audit
 → Retention Prediction
 → Voice Protection
 → Chief Editor Rewrite
@@ -153,6 +154,11 @@ Story Editor:
 
 Trend Observer:
 [analysis]
+
+Value Density Editor:
+[analysis]
+
+Value Density Score: X/100
 
 Retention Auditor:
 [analysis]

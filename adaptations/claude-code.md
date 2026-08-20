@@ -73,7 +73,7 @@ Example:
 
 ## What happens
 
-The agent activates `crp:content` with seven roles — Hook Analyst, Audience Psychologist, Story Editor, Trend Observer, Retention Auditor, Voice Guardian, Chief Editor — and produces:
+The agent activates `crp:content` with eight roles — Hook Analyst, Audience Psychologist, Story Editor, Trend Observer, Value Density Editor, Retention Auditor, Voice Guardian, Chief Editor — and produces:
 
 1. Content Diagnosis — each role's analysis
 2. Chief Editor Rewrite — a publish-ready revised version
